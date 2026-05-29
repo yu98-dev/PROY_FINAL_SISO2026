@@ -73,5 +73,5 @@ Los archivos creados se guardan en la carpeta `archivos/` dentro del directorio 
  
 ## Notas técnicas
  
-- Los archivos `.h` declaran los contratos públicos de cada módulo — funciones, estructuras y constantes accesibles entre archivos.
+- Los archivos `.h` declaran los contratos públicos de cada módulo: funciones, estructuras y constantes accesibles entre archivos.
 - Al apagar el sistema, `terminar_proceso_kernel()` garantiza el cierre de todos los archivos y la liberación de memoria de cada proceso activo.
