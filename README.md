@@ -1,6 +1,6 @@
-# Mini Kernel — Simulación de Sistema Operativo en C
+# Mini Kernel - Simulación de Sistema Operativo en C
  
-Proyecto final — Sistemas Operativos 2026A  
+Proyecto final Sistemas Operativos 2026A  
 Universidad Santiago de Cali · Facultad de Ingeniería
  
 ## Integrantes
